@@ -51,12 +51,7 @@ button:hover{
     background-color: rgb(129, 137, 224);
     transform:translateY(-10px);
 }
-#binary-tree{
-    display: flex;
-    justify-content: center;
-    display: flex;
-}
-#array-visual,#port{
+#array-visual,#port,#binary-tree{
     text-align: center;
 }
 #visual-title{
